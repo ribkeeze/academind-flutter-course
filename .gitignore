@@ -1,0 +1,23 @@
+﻿# Flutter / Dart
+.dart_tool/
+.packages
+.pub-cache/
+build/
+coverage/
+**/ios/Pods/
+**/ios/.symlinks/
+**/android/.gradle/
+**/android/local.properties
+**/android/app/debug/
+**/android/app/profile/
+**/android/app/release/
+**/.flutter-plugins
+**/.flutter-plugins-dependencies
+**/.metadata
+**/pubspec.lock
+# IDE
+.vscode/
+.idea/
+# Local-only folders (keep private)
+_archive/
+scratch/
